@@ -257,7 +257,7 @@ button {
 
 .navigation.navbar {
      float: right;
-     background: #fff;
+     background: #f9dc01;
      clear: both;
      padding: 23px 25px !important;
      border-radius: 64px;
@@ -687,7 +687,7 @@ button {
 /** contact section **/
 
 .contact {
-     margin-top: 90px;
+     margin-top: 190px;
 }
 
 .contact .main_form h3 {
@@ -698,6 +698,7 @@ button {
      display: block;
      font-weight: 600;
      padding: 0;
+    
 }
 
 #map {
@@ -709,8 +710,9 @@ button {
      position: absolute;
      z-index: 999;
      background: #fff;
-     padding: 40px 50px;
-     margin-top: 107px;
+     padding: 20px 50px;
+     margin-top: 207px;
+     margin-right: 40px;
 }
 
 .main_form .contactus {
